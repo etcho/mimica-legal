@@ -1,0 +1,5 @@
+title: Mímica
+description: Legal documents of the Mímica app
+theme: jekyll-theme-primer
+exclude:
+  - README.md
